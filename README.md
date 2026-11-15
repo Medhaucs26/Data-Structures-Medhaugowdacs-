@@ -6,3 +6,5 @@ Lab Programs list as uploaded
      3rd Lab (b) Program.c + Output.pdf
   4. 4th Lab Program.c + Output.pdf
      4th Lab (b) Program.c + Output.pdf
+  5. 5th Lab LeetCode challenge 1.c + Output.pdf
+     5th Lab LeetCode challenge 2.c + Output.pdf
