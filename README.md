@@ -8,3 +8,5 @@ Lab Programs list as uploaded
      4th Lab (b) Program.c + Output.pdf
   5. 5th Lab LeetCode challenge 1.c + Output.pdf
      5th Lab LeetCode challenge 2.c + Output.pdf
+  6. 6th Lab (b) Stack Program.c + Output.pdf
+     6th Lab (b) Queue Program.c + Output.pdf
